@@ -1,24 +1,29 @@
+div {
+    background-color: #CCF3EE;
+}
 
 
+body {
 
-    body{
-        background-color: #E8F9FD;
-    }
+    margin:0px;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+.top-container{
+border: 20px;
+border-color: black;
+background-color: #CCF3EE;
+}
+
+.middle-container{
+    
+}
 
 
-    h1 {
-        color: #67bdc4;
-      }
+.bottom-container{
 
-    h3 {
-        color: #67bdc4;
-      }
+}
 
-    hr{
-        border-style: none;
-        border-top-style: dotted;
-        border-color: gray;
-        border-width: 3px;
-        width: 2%
-
-    }
