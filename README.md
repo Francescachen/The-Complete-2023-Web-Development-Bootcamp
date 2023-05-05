@@ -1,7 +1,8 @@
 # Side Projects of the Complete 2023 Web Development Bootcamp
-Check out the link [here](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+For more course discription, please check out the link [here](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-Front-End Web Development
+![image](https://user-images.githubusercontent.com/80885004/236389889-84ed8c57-e69f-428c-b5ea-fcaa222da50c.png)
+
 
 * HTML 5
 
