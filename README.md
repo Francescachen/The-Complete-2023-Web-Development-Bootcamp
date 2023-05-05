@@ -4,21 +4,8 @@ For more course discription, please check out the link [here](https://www.udemy.
 ![image](https://user-images.githubusercontent.com/80885004/236389889-84ed8c57-e69f-428c-b5ea-fcaa222da50c.png)
 
 
-* HTML 5
+* HTML 5 * CSS 3 * Flexbox * Grid * Bootstrap 5 * Javascript ES6 * DOM Manipulation * jQuery
 
-* CSS 3
-
-* Flexbox
-
-* Grid
-
-* Bootstrap 5
-
-* Javascript ES6
-
-* DOM Manipulation
-
-* jQuery
 
 * Bash Command Line
 
