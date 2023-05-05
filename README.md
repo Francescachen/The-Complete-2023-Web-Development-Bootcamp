@@ -5,7 +5,7 @@ For more course discriptions, please check out the link [here](https://www.udemy
 
 
 * Side Project 1 - [CV for internships](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/internGremlinWorks/)
-- related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery
+— related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery
 
 * Bash Command Line
 
