@@ -1,12 +1,12 @@
 {
-  "name": "todolist-v1",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "To Do list version 1",
+  "description": "To Do List",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Francesca Chen",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -17,10 +17,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikaelaliwanag/to-do-list-v1.git"
+    "url": "git+https://github.com/mikaelaliwanag/toDoListApp.git"
   },
   "bugs": {
-    "url": "https://github.com/mikaelaliwanag/to-do-list-v1/issues"
+    "url": "https://github.com/mikaelaliwanag/toDoListApp/issues"
   },
-  "homepage": "https://github.com/mikaelaliwanag/to-do-list-v1#readme"
+  "homepage": "https://github.com/francescachen/toDoListApp#readme"
 }
