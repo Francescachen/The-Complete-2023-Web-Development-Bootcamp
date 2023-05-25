@@ -21,8 +21,8 @@ APP
 — related to courses: EJS
 
 * Side Project 4 - [Keeper App](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/reactKeeperApp) <br>
-![image](![image](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/262f4ea4-f132-4150-9a28-efdabb5c5134)
-)
+![keepr](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/8adc49df-22f9-4185-9fb8-60e0d4882a07)
+
 — related to courses: React
 
 * REST
