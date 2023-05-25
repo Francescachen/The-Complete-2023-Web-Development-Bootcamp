@@ -12,7 +12,7 @@ Frontend Web Development
 * Git, GitHub and Version Control
 
 Backend Web Development
-* Side Project 2 - [CV for internships](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/simplebmicalculator/) <br>
+* Side Project 2 - [Simple BMI Calculator](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/simplebmicalculator/) <br>
 — related to courses: Node.js, NPM, Express.js
 
 * EJS
