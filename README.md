@@ -5,7 +5,7 @@ For more course discriptions, please check out the link [here](https://www.udemy
 
 Frontend Web Development
 * Side Project 1 - [CV for internships](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/internGremlinWorks/) <br>
-— related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery, Web Design
+— related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery, REST, APIs, Web Design
 
 * Bash Command Line
 
@@ -32,9 +32,6 @@ APP
 — related to courses: Node.JS, Express, Authentication, Mongoose, MongoDB
 
 
-* REST
-
-* APIs
 
 * Databases
 
