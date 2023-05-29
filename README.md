@@ -32,7 +32,7 @@ APP
 
 
 Blockchain technology& Web3
-* Side Project 6 - [Authentication Secret](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/myOwnCryptoTokenARI) <br>
+* Side Project 6 - [Creat my own token contract development](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/myOwnCryptoTokenARI) <br>
 ![image](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/d29a4a08-60f9-44fe-a9b2-4229ec897c1c)
 
 — related to courses: Token contract development
