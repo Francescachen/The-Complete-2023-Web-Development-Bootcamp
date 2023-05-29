@@ -10,7 +10,7 @@ Frontend Web Development
 * Side Project 2 - [Dicee Challenge]( https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/diceeChallenge/)
  
   — related to courses: Javascript ES6, DOM Manipulation
-<br>><br>
+<br><br>
 
 Backend Web Development
 * Side Project 3 - [Simple BMI Calculator](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/simplebmicalculator)
