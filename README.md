@@ -7,15 +7,19 @@ Frontend Web Development
 * Side Project 1 - [CV for internships](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/internGremlinWorks/) <br>
 — related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery, REST, APIs, Web Design
 
-* Bash Command Line
-
-* Git, GitHub and Version Control <br>
+* Side Project 2 - [Dicee Challenge]( https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/diceeChallenge/)
+ 
+  — related to courses: Javascript ES6, DOM Manipulation
+<br>
 <br>
 
 Backend Web Development
 * Side Project 2 - [Simple BMI Calculator](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/simplebmicalculator/)
  
   — related to courses: Node.js, NPM, Express.js 
+  
+  
+
 <br><br>
 
 APP
