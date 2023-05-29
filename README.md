@@ -14,7 +14,7 @@ Frontend Web Development
 
 Backend Web Development
 * Side Project 3 - [Simple BMI Calculator](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/simplebmicalculator)
- 
+* 
   — related to courses: Node.js, NPM, Express.js 
   
   
@@ -22,7 +22,7 @@ Backend Web Development
 
 APP
 * Side Project 4 - [To Do List](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/toDoListApp) 
-![image](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/3bfad405-b276-48a0-8542-e5d1efdcef54)
+![Add a heading](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/ce01103b-8779-4509-a5ad-de0e05a6cbcd)
 — related to courses: EJS
 
 * Side Project 5 - [Keeper App](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/reactKeeperApp) 
