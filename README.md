@@ -25,27 +25,16 @@ APP
 
 — related to courses: React.js
 
-* Side Project 4 - [Authentication Secret](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/authenticationSecrets) <br>
+* Side Project 5 - [Authentication Secret](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/authenticationSecrets) <br>
 ![My](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/ae0872f5-6864-4646-9bf6-8944f85ce6ca)
-
 
 — related to courses: Node.JS, Express, Authentication, Mongoose, MongoDB
 
 
+Blockchain technology& Web3
+* Side Project 6 - [Authentication Secret](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/myOwnCryptoTokenARI) <br>
+![image](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/d29a4a08-60f9-44fe-a9b2-4229ec897c1c)
 
-* Databases
-
-* SQL
-
-* Firebase
-
-
-* Deployment with GitHub Pages, Heroku and MongoDB Atlas
-
-* Web3 Development on the Internet Computer
-
-* Blockchain technology
-
-* Token contract development
+— related to courses: Token contract development
 
 * NFT minting, buying and selling logic
