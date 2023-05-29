@@ -10,11 +10,11 @@ Frontend Web Development
 * Bash Command Line
 
 * Git, GitHub and Version Control
-
+<br>
 Backend Web Development
 * Side Project 2 - [Simple BMI Calculator](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/simplebmicalculator/) <br>
 — related to courses: Node.js, NPM, Express.js
-
+<br>
 APP
 * Side Project 3 - [To Do List](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/toDoListApp) <br>
 ![image](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/3bfad405-b276-48a0-8542-e5d1efdcef54)
@@ -30,6 +30,7 @@ APP
 
 — related to courses: Node.JS, Express, Authentication, Mongoose, MongoDB
 
+<br>
 
 Blockchain technology& Web3
 * Side Project 6 - [Creat my own token contract development](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/myOwnCryptoTokenARI) <br>
