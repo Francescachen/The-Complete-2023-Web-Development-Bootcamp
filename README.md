@@ -5,7 +5,7 @@ For more course discriptions, please check out the link [here](https://www.udemy
 
 Frontend Web Development
 * Side Project 1 - [CV for internships](https://francescachen.github.io/theComplete2023WebDevelopmentBootcamp/internGremlinWorks/) <br>
-— related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery
+— related to courses: HTML 5, CSS 3, Flexbox, Grid, Bootstrap 5, Javascript ES6, DOM Manipulation, jQuery, Web Design
 
 * Bash Command Line
 
@@ -23,7 +23,14 @@ APP
 * Side Project 4 - [Keeper App](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/reactKeeperApp) <br>
 ![keepr](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/8adc49df-22f9-4185-9fb8-60e0d4882a07)
 
-— related to courses: React
+— related to courses: React.js
+
+* Side Project 4 - [Authentication Secret](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/tree/main/authenticationSecrets) <br>
+![My](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/ae0872f5-6864-4646-9bf6-8944f85ce6ca)
+
+
+— related to courses: Node.JS, Express, Authentication, Mongoose, MongoDB
+
 
 * REST
 
@@ -33,19 +40,8 @@ APP
 
 * SQL
 
-* MongoDB
-
-* Mongoose
-
-* Authentication
-
 * Firebase
 
-* React.js
-
-* React Hooks
-
-* Web Design
 
 * Deployment with GitHub Pages, Heroku and MongoDB Atlas
 
