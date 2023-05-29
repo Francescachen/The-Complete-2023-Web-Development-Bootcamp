@@ -2,6 +2,7 @@
 
 Simple to do list using EJS template
 
-![Screenshot (3)](https://user-images.githubusercontent.com/60859812/85915929-9f479200-b800-11ea-8c67-a27f99607946.png)
+![Add a heading](https://github.com/Francescachen/theComplete2023WebDevelopmentBootcamp/assets/80885004/f289ce52-1e00-4aee-83e6-6e05fd41a21d)
+
 
 Part of Udemy course "The Complete 2020 Web Development Bootcamp" (Angela Yu)
